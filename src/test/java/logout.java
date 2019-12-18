@@ -8,7 +8,10 @@ public class logout {
     
     web gitte
     degistir
-    git pull
+    git fetch "adim adim gormek icin"
+    git merge "birlestirmek icin"
+    
+    git pull "cek"
     
     */
 }
