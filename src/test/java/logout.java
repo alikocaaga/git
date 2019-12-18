@@ -1,5 +1,5 @@
 public class logout {
-/* Hersey tamam
+/* Pull and Push rules
     git add .
     git commit -m "yorum"
     git push
