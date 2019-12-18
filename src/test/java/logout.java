@@ -1,8 +1,14 @@
 public class logout {
-
-    //hi logout
-    // Deneme
-    //Deneme 2
-    // hi Asia
+/* Hersey tamam
+    git add .
+    git commit -m "yorum"
+    git push
     
+    ----
+    
+    web gitte
+    degistir
+    git pull
+    
+    */
 }
